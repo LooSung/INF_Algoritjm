@@ -1,0 +1,9 @@
+
+}
+java:S1854
+":Remove this useless assignment to local variable "input2".(™è¾×8´¦ç„2J$ccf3b7cf-7f5a-4767-8282-9e9c76fe4bf2
+n
+java:S1481
+"+Remove this unused "input2" local variable.(™è¾×8¡´¦ç„2J$57eb9210-2012-4faa-ba5b-f16578b3d3f4
+p	java:S108")Either remove or fill this block of code.(ı­®‡üÿÿÿÿ8öã¤ç„2J$e5460c01-dafd-4a11-9806-16f7f6b53f05
+r	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8¡´¦ç„2J$cdfd21e6-2f20-4117-a19a-a24eaf0d3f55
